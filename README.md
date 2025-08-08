@@ -33,4 +33,9 @@ The dataset contains survey responses from tech employees on topics such as ment
 
 ## Key Findings
 
-Git and GitHub for version control
+- **Gender and Mental Health Treatment**:
+A higher percentage of female respondents reported receiving treatment overall.
+Among men, those who work remotely are more likely to receive treatment (47%) than those who do not work remotely (44%).
+Among women, those working remotely are also more likely to receive treatment (72%) compared to those not working remotely (67%).
+This could suggest that remote work provides both men and women with more opportunities to prioritize their mental health, compared to those who work in-office. It also raises the question of whether in-office employees may experience more pressure or have less accessible support for mental health struggles.
+The data shows that women are more likely to access mental health support whether they are remote or in-office, compared to men. This could suggest a need for more accessible, targeted support for men, both in the workplace and remotely. It also highlights the importance of addressing stigma around men's mental health and encouraging open conversations.
