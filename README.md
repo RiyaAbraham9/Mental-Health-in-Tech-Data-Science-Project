@@ -54,5 +54,5 @@ More likely to recognize symptoms and seek help due to past experiences or growi
 May be impacted by generational stigma surrounding mental health.
 Could also face digital access issues, reducing their ability to benefit from online therapy or remote care options.
 This suggests:
-- Increase early support and de-stigmatization efforts for young adults.
-- Improve access and outreach for older adults, possibly through in-person and age-friendly services.
+  - Increase early support and de-stigmatization efforts for young adults.
+  - Improve access and outreach for older adults, possibly through in-person and age-friendly services.
