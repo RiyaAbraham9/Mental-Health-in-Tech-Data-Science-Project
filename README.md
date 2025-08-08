@@ -57,4 +57,24 @@ This suggests:
   - Increase early support and de-stigmatization efforts for young adults.
   - Improve access and outreach for older adults, possibly through in-person and age-friendly services.
 
-<img width="725" height="642" alt="image" src="https://github.com/user-attachments/assets/420a0172-e8af-4b4c-9115-546e88da0dec" />
+-**Modelling Results**:
+I tested two classification models to predict whether a tech professional has sought treatment for a mental health condition:
+  - **Best model:** Logistic Regression with 72% accuracy.
+    <img width="520" height="390" alt="image" src="https://github.com/user-attachments/assets/29d68a98-5e03-49c7-8a0d-42f27408cbe7" />
+    - The model correctly identifies ~70% of people who actually sought treatment.
+    - The model correctly identifies ~74% of people who didn’t seek treatment.
+    - Misclassified 38 individuals who sought treatment as not seeking treatment, which suggests improving recall could make the model more helpful for early            intervention
+  -  **Most important features (Random Forest):**
+    1. Family history of mental illness
+    2. Age
+    3. Care options
+    4. benefits
+     <img width="715" height="195" alt="image" src="https://github.com/user-attachments/assets/c96ec698-83f3-479a-bdcb-22784561281d" />
+
+  Here is a summary of the classication results for the 2 models: 
+  | Model               | Accuracy | Precision | Recall | F1-score |
+  | ------------------- | -------- | --------- | ------ | -------- |
+  | Logistic Regression | 0.72     | 0.72      | 0.72   | 0.72     |
+  | Random Forest       | 0.70     | 0.70      | 0.70   | 0.70     |
+
+
