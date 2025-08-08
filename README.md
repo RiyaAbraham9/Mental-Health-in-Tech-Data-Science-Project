@@ -75,7 +75,8 @@ Here is a summary of the classication results for the 2 models:
   | ------------------- | -------- | --------- | ------ | -------- |
   | Logistic Regression | 0.72     | 0.72      | 0.72   | 0.72     |
   | Random Forest       | 0.70     | 0.70      | 0.70   | 0.70     |
-I tested two classification models to predict whether a tech professional has sought treatment for a mental health condition:
+  
+- I tested two classification models to predict whether a tech professional has sought treatment for a mental health condition:
   - **Best model:** Logistic Regression with 72% accuracy.
     <img width="520" height="390" alt="image" src="https://github.com/user-attachments/assets/29d68a98-5e03-49c7-8a0d-42f27408cbe7" />
     - The model correctly identifies ~70% of people who actually sought treatment.
