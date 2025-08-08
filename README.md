@@ -56,3 +56,5 @@ Could also face digital access issues, reducing their ability to benefit from on
 This suggests:
   - Increase early support and de-stigmatization efforts for young adults.
   - Improve access and outreach for older adults, possibly through in-person and age-friendly services.
+
+<img width="725" height="642" alt="image" src="https://github.com/user-attachments/assets/420a0172-e8af-4b4c-9115-546e88da0dec" />
